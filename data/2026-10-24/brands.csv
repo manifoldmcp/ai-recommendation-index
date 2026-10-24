@@ -1,0 +1,104 @@
+brand,pattern,sites
+Manifold,/\bManifold\b(?! Markets)/,manifoldmcp.com
+Google Analytics MCP (official),"/(?<!\b(?:[Nn]ot|[Nn]o|rather than)(?: an)? )(?:Google['\u2019]s official|Google provides an official|[Oo]fficial Google)[^\n.]{0,25}?(?:GA4|Analytics)[^\n.]{0,20}?(?:MCP|server)|(?<!\b(?:[Nn]ot|[Nn]o|rather than)(?: an)? )[Oo]fficial (?:GA4|Google Analytics|Analytics) MCP|googleanalytics\/google-analytics-mcp/",github.com/googleanalytics/google-analytics-mcp developers.google.com/analytics/devguides/mcp developers.google.cn/analytics/devguides/mcp
+Google Ads MCP (official),"/(?<!\b(?:[Nn]ot|[Nn]o|rather than)(?: an)? )(?:Google['\u2019]s official|[Oo]fficial Google)[^\n.]{0,25}?Ads[^\n.]{0,20}?(?:MCP|server)|googleads\/google-ads-mcp|google-marketing-solutions/",github.com/googleads/google-ads-mcp github.com/google-marketing-solutions developers.google.com/google-ads/api/docs/developer-toolkit/mcp
+Meta (official server),"/Meta['\u2019]s (own |official )(Ads )?MCP|[Oo]fficial Meta (Ads )?MCP|[Oo]fficial (Meta|Facebook) Ads[^\n.]{0,12}MCP|mcp\.facebook\.com/",developers.facebook.com/documentation/ads-commerce/ads-ai-connectors mcp.facebook.com
+Ahrefs,/\bAhrefs\b/i,ahrefs.com
+Semrush,/\bSemrush\b/i,semrush.com
+DataForSEO,/\bDataForSEO\b/i,dataforseo.com
+SE Ranking,/\bSE ?Ranking\b/i,seranking.com
+Serpstat,/\bSerpstat\b/i,serpstat.com
+Moz,/\bMoz\b/,moz.com
+Screaming Frog,/\bScreaming Frog\b/i,screamingfrog.co.uk
+SerpApi,/\bSerpApi\b/i,serpapi.com
+Similarweb,/\bSimilarweb\b/i,similarweb.com
+OpenSEO,/\bOpenSEO\b/i,openseo.so
+ContextBolt,/\bContextBolt\b/i,contextbolt.com
+Keywords Everywhere,/\bKeywords Everywhere\b/i,keywordseverywhere.com
+SEOptimer,/\bSEOptimer\b/i,seoptimer.com
+mcp-gsc (AminForou),/\bmcp-gsc\b|AminForou/i,github.com/aminforou/mcp-gsc
+mcp-server-gsc (ahonn),/mcp-server-gsc|\bahonn\b/i,github.com/ahonn/mcp-server-gsc
+Search Console MCP (mcpsearchconsole.com),/mcpsearchconsole/i,mcpsearchconsole.com
+GSC Wizard,/\bGSC ?Wizard\b/i,gscwizard.com
+InsightfulPipe,/\bInsightful ?Pipe\b/i,insightfulpipe.com
+Windsor.ai,/\bWindsor(\.ai)?\b/i,windsor.ai
+Supermetrics,/\bSupermetrics\b/i,supermetrics.com
+Coupler.io,/\bCoupler(\.io)?\b/i,coupler.io
+Two Minute Reports,/\bTwo Minute Reports\b/i,twominutereports.com
+Porter Metrics,/\bPorter ?Metrics\b/i,portermetrics.com
+Data Bloo,/\bData ?Bloo\b/i,databloo.com
+Markifact,/\bMarkifact\b/i,markifact.com
+Stape,/\bStape\b/,stape.io
+Profound,/\bProfound\b/,tryprofound.com
+Peec AI,/\bPeec\b/i,peec.ai
+Otterly.AI,/\bOtterly\b/i,otterly.ai
+Scrunch,/\bScrunch\b/i,scrunchai.com scrunch.com
+AthenaHQ,/\bAthena ?HQ\b/i,athenahq.ai
+RadarKit,/\bRadarKit\b/i,radarkit.ai
+Cite42,/\bCite42\b/i,cite42.dev
+LLM Pulse,/\bLLM ?Pulse\b/i,llmpulse.ai
+Ryze AI,/\bRyze\b/,get-ryze.ai
+Sona,/(?<!Meet )\bSona\b/,sona.com
+Meet Sona,/\bMeet ?Sona\b/i,meetsona.ai
+GummySearch,/\bGummySearch\b/i,gummysearch.com
+F5Bot,/\bF5Bot\b/i,f5bot.com
+Syften,/\bSyften\b/i,syften.com
+Brand24,/\bBrand24\b/i,brand24.com
+Octolens,/\bOctolens\b/i,octolens.com
+Mention,"/Mention\.com|\*\*Mention\*\*|(?<=(?:\/|,|\band|\bor) )Mention\b/",mention.com
+reddit-mcp-buddy,/reddit-mcp-buddy|karanb192/i,github.com/karanb192/reddit-mcp-buddy
+eliasbiondo/reddit-mcp-server,/eliasbiondo\/reddit/i,github.com/eliasbiondo/reddit-mcp-server
+jordanburke/reddit-mcp-server,/jordanburke/i,github.com/jordanburke/reddit-mcp-server
+Hawstein/mcp-server-reddit,/Hawstein/i,github.com/hawstein/mcp-server-reddit
+stickerdaniel/linkedin-mcp-server,/stickerdaniel/i,github.com/stickerdaniel/linkedin-mcp-server
+Linked API,/\bLinked ?API\b/i,linkedapi.io
+ContentIn,/\bContentIn\b/i,contentin.io
+Taplio,/\bTaplio\b/i,taplio.com
+Unipile,/\bUnipile\b/i,unipile.com
+Proxycurl,/\bProxycurl\b/i,nubela.co
+Phantombuster,/\bPhantom ?buster\b/i,phantombuster.com
+HeyReach,/\bHeyReach\b/i,heyreach.io
+Ayrshare,/\bAyrshare\b/i,ayrshare.com
+Metricool,/\bMetricool\b/i,metricool.com
+Postiz,/\bPostiz\b/i,postiz.com
+ScrapeCreators,/\bScrape ?Creators\b/i,scrapecreators.com
+ScraperSocial,/\bScraperSocial\b/i,scrapersocial.com
+Sociality.io,/\bSociality\b/i,sociality.io
+Buffer,/\bBuffer\b/,buffer.com
+Hootsuite,/\bHootsuite\b/i,hootsuite.com
+Eden,/\bEden\b/,eden.so
+prmichaelsen/youtube-mcp,/prmichaelsen/i,github.com/prmichaelsen/youtube-mcp
+jkawamoto/mcp-youtube-transcript,/jkawamoto/i,github.com/jkawamoto/mcp-youtube-transcript
+coyaSONG/youtube-mcp-server,/coyaSONG/i,github.com/coyasong/youtube-mcp-server
+ZubeidHendricks/youtube-mcp-server,/ZubeidHendricks/i,github.com/zubeidhendricks/youtube-mcp-server
+kimtaeyoon83/mcp-server-youtube-transcript,/kimtaeyoon83/i,github.com/kimtaeyoon83/mcp-server-youtube-transcript
+Apollo.io,/\bApollo(\.io)?\b(?! GraphQL| GraphOS|['\u2019]s GraphQL)/,apollo.io
+Clay,/\bClay\b/,clay.com
+Hunter,/\bHunter(\.io)?\b/,hunter.io
+ZoomInfo,/\bZoomInfo\b/i,zoominfo.com
+Lusha,/\bLusha\b/i,lusha.com
+Prospeo,/\bProspeo\b/i,prospeo.io
+Snov.io,/\bSnov(\.io)?\b/i,snov.io
+Clearout,/\bClearout\b/i,clearout.io
+ZeroBounce,/\bZeroBounce\b/i,zerobounce.net
+Amplemarket,/\bAmplemarket\b/i,amplemarket.com
+Crustdata,/\bCrustdata\b/i,crustdata.com
+Instantly,"/\bInstantly(\.ai)?\b(?= MCP|\.ai|,| and| or|\))/",instantly.ai
+Salesforge,/\bSalesforge\b/i,salesforge.ai
+Explorium,/\bExplorium\b/i,explorium.ai
+Pipeboard,/\bPipeboard\b/i,pipeboard.co
+Get MCP Ads,/\bGet ?MCP ?Ads\b|get-mcp-ads/i,getmcpads.com github.com/get-mcp-ads
+Adzviser,/\bAdzviser\b/i,adzviser.com
+AdKit,/\bAdKit\b/,adkit.so
+GoMarble,/\bGoMarble\b/i,gomarble.ai
+Flyweel,/\bFlyweel\b/i,flyweel.co
+Hopkin,/\bHopkin\b/i,hopkin.ai
+Composio,/\bComposio\b/i,composio.dev
+Zapier,/\bZapier\b/i,zapier.com
+Pipedream,/\bPipedream\b/i,pipedream.com
+n8n,/\bn8n\b/i,n8n.io
+Apify,/\bApify\b/i,apify.com
+Bright Data,/\bBright ?Data\b/i,brightdata.com
+HubSpot,/\bHubSpot\b/i,hubspot.com
+Klaviyo,/\bKlaviyo\b/i,klaviyo.com
+PostHog,/\bPostHog\b/i,posthog.com
